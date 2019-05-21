@@ -49,16 +49,16 @@ Using the song and log datasets, I create a **star schema** optimized for querie
 
 ## Final Table Results
 1. songplays
- ![songplays](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/image/songplays.png)
+ ![songplays](https://github.com/gsu421/Music-Library-Data-Modeling-Postgres/blob/master/image/songplays.png)
 
 2. users
- ![users](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/image/users.png)
+ ![users](https://github.com/gsu421/Music-Library-Data-Modeling-Postgres/blob/master/image/users.png)
 
 3. songs
- ![songs](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/image/songs.png)
+ ![songs](https://github.com/gsu421/Music-Library-Data-Modeling-Postgres/blob/master/image/songs.png)
 
 4. artists
- ![artists](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/image/artists.png)
+ ![artists](https://github.com/gsu421/Music-Library-Data-Modeling-Postgres/blob/master/image/artists.png)
 
 5. time
- ![time](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/image/time.png)
+ ![time](https://github.com/gsu421/Music-Library-Data-Modeling-Postgres/blob/master/image/time.png)
